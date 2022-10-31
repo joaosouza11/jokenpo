@@ -28,7 +28,7 @@ if computador == 0:
   if user == 0:
     print("EMPATE")
   elif user == 1:
-    print("VOCÊ GANHOU, PARABÉNS!")
+    print("VOCÊ GANHOU, PARABÉNS")
   elif user == 2:
     print("VOCÊ PERDEU")
 
